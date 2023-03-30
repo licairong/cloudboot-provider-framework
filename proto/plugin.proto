@@ -1,0 +1,26 @@
+//protoc -I proto/ proto/print.proto --go_out=plugins=grpc:proto/ --go_out=. --go_opt=paths=source_relative
+syntax = "proto3";
+option go_package = "github.com/licairong/hardware-plugin/proto";
+
+package proto;
+
+message Empty {}
+
+service RaidPlugin {
+  rpc RAID (Request) returns (Response) {}
+  rpc Clear (ClearRequest) returns (Response) {}
+}
+
+service OobPlugin {
+  rpc OOB (Request) returns (Response) {}
+  rpc PowerReset (Request) returns (Response) {}
+}
+
+message Request{}
+message ClearRequest{
+  string ctrlID = 1;
+}
+message Response{
+  string result = 1;
+}
+
