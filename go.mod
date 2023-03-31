@@ -1,4 +1,4 @@
-module github.com/licairong/hardware-plugin
+module github.com/licairong/cloudboot-provider-framework
 
 go 1.16
 

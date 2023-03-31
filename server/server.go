@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/go-plugin"
-	"github.com/licairong/hardware-plugin/shared"
+	"github.com/licairong/cloudboot-provider-framework/shared"
 	"fmt"
 	"log"
 	"os/exec"

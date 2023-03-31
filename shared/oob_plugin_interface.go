@@ -3,7 +3,7 @@ package shared
 import (
 	"context"
 	"github.com/hashicorp/go-plugin"
-	"github.com/licairong/hardware-plugin/proto"
+	"github.com/licairong/cloudboot-provider-framework/proto"
 	"google.golang.org/grpc"
 )
 
