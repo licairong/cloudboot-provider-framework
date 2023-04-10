@@ -1,0 +1,10 @@
+Maximum User IDs     : 16
+Enabled User IDs     : 4
+
+User ID              : 2
+User Name            : root
+Fixed Name           : No
+Access Available     : call-in / callback
+Link Authentication  : enabled
+IPMI Messaging       : enabled
+Privilege Level      : ADMINISTRATOR

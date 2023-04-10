@@ -1,0 +1,11 @@
+ Chassis Type          : Rack Mount Chassis
+ Chassis Serial        : CN722903GJ
+ Board Mfg Date        : Fri Apr 23 08:00:00 2010
+ Board Mfg             : HP
+ Board Product         : ProLiant DL360e Gen8
+ Board Serial          : CN722903GJ
+ Board Part Number     :
+ Product Manufacturer  : HP
+ Product Name          : ProLiant DL360e Gen8
+ Product Part Number   :
+ Product Serial        : CN722903GJ

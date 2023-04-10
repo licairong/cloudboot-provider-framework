@@ -1,0 +1,9 @@
+ Board Mfg Date        : Sat Jan 10 02:56:00 2015
+ Board Mfg             : DELL
+ Board Product         : PowerEdge R620
+ Board Serial          : CN747514980500
+ Board Part Number     : 0XWDCFA01
+ Product Manufacturer  : DELL
+ Product Name          : PowerEdge R620
+ Product Version       : 01
+ Product Serial        : 3Q28132

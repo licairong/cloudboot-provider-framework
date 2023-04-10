@@ -1,0 +1,23 @@
+{
+	"manufacturer": "Dell",
+	"model": "PowerEdge R730",
+	"raid": {
+		"manufacturer": "avago",
+		"model": "9560-8i",
+		"tool": "storcli",
+		"tool_version": "1.0.27",
+		"tool_download_addr": "http://xxx/storcli.rpm"
+	},
+	"bios": {
+		"version": "1.20.0",
+		"tool": "",
+		"tool_version": "",
+		"tool_download_addr": ""
+	},
+	"oob": {
+		"version": "iDRAC7",
+		"tool": "",
+		"tool_version": "",
+		"tool_download_addr": ""
+	}
+}

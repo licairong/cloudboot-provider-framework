@@ -1,0 +1,182 @@
+FRU Device Description : Builtin FRU Device (ID 0)
+ Chassis Type          : Rack Mount Chassis
+ Chassis Serial        : CN722903GJ
+ Board Mfg Date        : Fri Apr 23 08:00:00 2010
+ Board Mfg             : HP
+ Board Product         : ProLiant DL360e Gen8
+ Board Serial          : CN722903GJ
+ Board Part Number     :
+ Product Manufacturer  : HP
+ Product Name          : ProLiant DL360e Gen8
+ Product Part Number   :
+ Product Serial        : CN722903GJ
+
+FRU Device Description : BMC CONTROLLER (ID 238)
+ Product Manufacturer  : HPE
+ Product Name          : BMC CONTROLLER
+ Product Part Number   : iLO 4
+
+FRU Device Description : MB BIOS (ID 239)
+ Product Manufacturer  : HPE
+ Product Name          : SYSTEM BIOS
+ Product Part Number   : P73
+ Product Version       : 06/01/2012
+
+FRU Device Description : CPU 1 (ID 16)
+ Product Manufacturer  : Intel
+ Product Name          :  Intel(R) Xeon(R) CPU E5-2420 0 @ 1.90GHz
+
+FRU Device Description : CPU 2 (ID 17)
+ Product Manufacturer  : Intel
+ Product Name          :  Intel(R) Xeon(R) CPU E5-2420 0 @ 1.90GHz
+
+FRU Device Description : CPU 1 DIMM 1 (ID 110)
+ Memory Type           : DDR3 SDRAM
+ SDRAM Capacity        : 4096 MB
+ Memory Banks          : 3 (8 Banks)
+ Primary Bus Width     : 64 bits
+ SDRAM Device Width    : 4 bits
+ Number of Ranks       : 2
+ Memory size           : 16384 MB
+ 1.5 V Nominal Op      : Yes
+ 1.35 V Nominal Op     : No
+ 1.2X V Nominal Op     : Yes
+ Error Detect/Cor      : 8 bits
+ Manufacturer          : Elpida
+ Manufacture Date      : year 11 week 47
+ Serial Number         : 2b03f1cd
+ Part Number           : EBJ17RG4EAFA-DJ-F
+
+FRU Device Description : CPU 1 DIMM 2 (ID 111)
+ Memory Type           : DDR3 SDRAM
+ SDRAM Capacity        : 2048 MB
+ Memory Banks          : 3 (8 Banks)
+ Primary Bus Width     : 64 bits
+ SDRAM Device Width    : 4 bits
+ Number of Ranks       : 2
+ Memory size           : 8192 MB
+ 1.5 V Nominal Op      : Yes
+ 1.35 V Nominal Op     : No
+ 1.2X V Nominal Op     : Yes
+ Error Detect/Cor      : 8 bits
+ Manufacturer          : Samsung
+ Manufacture Date      : year 10 week 45
+ Serial Number         : 825accad
+ Part Number           : M393B1K70CH0-YH9
+
+FRU Device Description : CPU 1 DIMM 3 (ID 112)
+ Memory Type           : DDR3 SDRAM
+ SDRAM Capacity        : 4096 MB
+ Memory Banks          : 3 (8 Banks)
+ Primary Bus Width     : 64 bits
+ SDRAM Device Width    : 4 bits
+ Number of Ranks       : 2
+ Memory size           : 16384 MB
+ 1.5 V Nominal Op      : Yes
+ 1.35 V Nominal Op     : No
+ 1.2X V Nominal Op     : Yes
+ Error Detect/Cor      : 8 bits
+ Manufacturer          : Elpida
+ Manufacture Date      : year 11 week 47
+ Serial Number         : 2b03f16d
+ Part Number           : EBJ17RG4EAFA-DJ-F
+
+FRU Device Description : CPU 1 DIMM 4 (ID 113)
+ Memory Type           : DDR3 SDRAM
+ SDRAM Capacity        : 4096 MB
+ Memory Banks          : 3 (8 Banks)
+ Primary Bus Width     : 64 bits
+ SDRAM Device Width    : 4 bits
+ Number of Ranks       : 1
+ Memory size           : 8192 MB
+ 1.5 V Nominal Op      : Yes
+ 1.35 V Nominal Op     : No
+ 1.2X V Nominal Op     : Yes
+ Error Detect/Cor      : 8 bits
+ Manufacturer          : Samsung
+ Manufacture Date      : year 14 week 07
+ Serial Number         : 13203191
+ Part Number           : M393B1G70QH0-YK0
+
+FRU Device Description : CPU 2 DIMM 1 (ID 114)
+ Memory Type           : DDR3 SDRAM
+ SDRAM Capacity        : 4096 MB
+ Memory Banks          : 3 (8 Banks)
+ Primary Bus Width     : 64 bits
+ SDRAM Device Width    : 4 bits
+ Number of Ranks       : 2
+ Memory size           : 16384 MB
+ 1.5 V Nominal Op      : Yes
+ 1.35 V Nominal Op     : No
+ 1.2X V Nominal Op     : Yes
+ Error Detect/Cor      : 8 bits
+ Manufacturer          : Elpida
+ Manufacture Date      : year 11 week 47
+ Serial Number         : 2b03f21b
+ Part Number           : EBJ17RG4EAFA-DJ-F
+
+FRU Device Description : CPU 2 DIMM 2 (ID 115)
+ Memory Type           : DDR3 SDRAM
+ SDRAM Capacity        : 2048 MB
+ Memory Banks          : 3 (8 Banks)
+ Primary Bus Width     : 64 bits
+ SDRAM Device Width    : 4 bits
+ Number of Ranks       : 2
+ Memory size           : 8192 MB
+ 1.5 V Nominal Op      : Yes
+ 1.35 V Nominal Op     : No
+ 1.2X V Nominal Op     : Yes
+ Error Detect/Cor      : 8 bits
+ Manufacturer          : Samsung
+ Manufacture Date      : year 10 week 45
+ Serial Number         : 854df331
+ Part Number           : M393B1K70CH0-YH9
+
+FRU Device Description : CPU 2 DIMM 3 (ID 116)
+ Memory Type           : DDR3 SDRAM
+ SDRAM Capacity        : 4096 MB
+ Memory Banks          : 3 (8 Banks)
+ Primary Bus Width     : 64 bits
+ SDRAM Device Width    : 4 bits
+ Number of Ranks       : 2
+ Memory size           : 16384 MB
+ 1.5 V Nominal Op      : Yes
+ 1.35 V Nominal Op     : No
+ 1.2X V Nominal Op     : Yes
+ Error Detect/Cor      : 8 bits
+ Manufacturer          : Elpida
+ Manufacture Date      : year 11 week 47
+ Serial Number         : 2b03f0e6
+ Part Number           : EBJ17RG4EAFA-DJ-F
+
+FRU Device Description : CPU 2 DIMM 4 (ID 117)
+ Memory Type           : DDR3 SDRAM
+ SDRAM Capacity        : 4096 MB
+ Memory Banks          : 3 (8 Banks)
+ Primary Bus Width     : 64 bits
+ SDRAM Device Width    : 4 bits
+ Number of Ranks       : 1
+ Memory size           : 8192 MB
+ 1.5 V Nominal Op      : Yes
+ 1.35 V Nominal Op     : No
+ 1.2X V Nominal Op     : Yes
+ Error Detect/Cor      : 8 bits
+ Manufacturer          : Samsung
+ Manufacture Date      : year 14 week 07
+ Serial Number         : 13203192
+ Part Number           : M393B1G70QH0-YK0
+
+FRU Device Description : Ethernet Adptr (ID 2)
+ Product Name          : NIC
+
+FRU Device Description : SAS Ctlr (ID 3)
+ Product Name          : Storage Controller
+
+FRU Device Description : SAS Ctlr (ID 4)
+ Product Name          : Storage Controller
+
+FRU Device Description : Mezz Slot 1 (ID 5)
+ Product Name          : Unknown
+
+FRU Device Description : Mezz Slot 2 (ID 6)
+ Device not present (Parameter out of range)
